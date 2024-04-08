@@ -6,8 +6,8 @@
 
 #### 1. Clone the Repository
 ```sh
-https://github.com/vishal3D/testAPI.git
-cd testAPI
+https://github.com/vishal3D/DemoAPIs.git
+cd DemoAPIs
 ```
 
 #### 2. Install Dependencies (Node.js & express)
