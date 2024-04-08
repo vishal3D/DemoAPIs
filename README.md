@@ -6,18 +6,18 @@
 
 #### 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/user-management-api.git
-cd user-management-api
+https://github.com/vishal3D/testAPI.git
+cd testAPI
 ```
 
-#### 2. Install Dependencies
+#### 2. Install Dependencies (Node.js & express)
 ```sh
 npm install
 ```
 
 #### 3. Start the Server
 ```sh
-npm start
+node API_requests.js
 ```
 The server will start at `http://localhost:3000`.
 
